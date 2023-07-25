@@ -1,2 +1,2 @@
 # MyPracticeRepo
-This is were I will be practicing the git hub work flow.
+This is where I will be practising the git work flow.
